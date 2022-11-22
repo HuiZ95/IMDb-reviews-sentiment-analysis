@@ -46,4 +46,4 @@ We can spot words such as *good*, *fun*, *great*, *classic* which suggest a posi
 
 <br> **4.4 Sentiment Analysis**
 <br> ![image](https://user-images.githubusercontent.com/117392795/203302521-928c18d8-8f4a-4dbe-acfb-12ebb0d1376e.png)
-<br> From the **Sentiment Analysis** plot, we can see that to all the selected decades is associated a positive sentiment with the 2000's, 1990's and 1960's being the most favourable ones. 
+<br> From the **Sentiment Analysis** plot, we can see that to all the selected decades is associated a positive sentiment with the 2000's, 1990's and 1960's being the most favourite among the audience. 
