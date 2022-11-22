@@ -29,14 +29,21 @@ In this project we will perform a sentiment analysis and other visual analysis o
 ---
 
 <br> **4. Key takeaways**
+
+<br> **4.1 WordCloud***
 <br>![image](https://user-images.githubusercontent.com/117392795/203279197-40d609ce-378b-46bd-994e-53d511c97239.png)
 <br> The above **wordcloud** is made by the review of all the selected Disney movies from the 1950's to the 2010's.
 We can spot words such as *good*, *fun*, *great*, *classic* which suggest a positive sentiment for all the movies.
 
+
+<br> **4.2 Word Frequency plot**
 <br> ![image](https://user-images.githubusercontent.com/117392795/203281905-7f720dee-5c41-47ae-8b19-ab9fb8eed172.png)
 <br> We have also created a **Word Frequency plot** by plotting the top 50 most used words in the reviews. We can see words such as **Nemo**, **Dory**, **finding** which suggest that movies from the 2000's may be the most popular among the audience.
 
+<br> **4.3 Average score by decade**
 <br> ![image](https://user-images.githubusercontent.com/117392795/203285518-e9c27aa7-bc91-4bc0-9ac2-534b69523953.png)
-<br> 
+<br> As we can see from the **Average score by decade** plot, the movies from the 1990's and 2000's are the highest rated by the audience.
 
-
+<br> **4.4 Sentiment Analysis**
+<br> ![image](https://user-images.githubusercontent.com/117392795/203302521-928c18d8-8f4a-4dbe-acfb-12ebb0d1376e.png)
+<br> From the **Sentiment Analysis** plot, we can see that to all the selected decades is associated a positive sentiment with the 2000's, 1990's and 1960's being the most favourable ones. 
