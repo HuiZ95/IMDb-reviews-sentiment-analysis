@@ -30,7 +30,7 @@ In this project we will perform a sentiment analysis and other visual analysis o
 
 <br> **4. Key takeaways**
 
-<br> **4.1 WordCloud***
+<br> **4.1 WordCloud**
 <br>![image](https://user-images.githubusercontent.com/117392795/203279197-40d609ce-378b-46bd-994e-53d511c97239.png)
 <br> The above **wordcloud** is made by the review of all the selected Disney movies from the 1950's to the 2010's.
 We can spot words such as *good*, *fun*, *great*, *classic* which suggest a positive sentiment for all the movies.
